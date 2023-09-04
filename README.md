@@ -1,6 +1,3 @@
-# Project Name
-
-[Project Instructions](./INSTRUCTIONS.md)
 # Employee Management Application
 ## Description:
 This application allows you to input employee information and keep track of monthly salary expenses.
